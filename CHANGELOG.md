@@ -2,6 +2,9 @@
 
 <!--next-version-placeholder-->
 
+## v0.3.8 (2022-01-29)
+
+
 ## v0.3.7 (2022-01-29)
 ### Documentation
 * Update dependency ([`ad170cc`](https://github.com/UBC-MDS/cryptocurrencyeda/commit/ad170cc386fb742c8b56146a61aa70b83619d828))
